@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "role": "Backend Developer"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "role": "Python Developer"
+  }
+]
