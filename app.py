@@ -1,7 +1,6 @@
 import json
 import os
 from pathlib import Path
-
 from dotenv import load_dotenv
 from flask import Flask, jsonify, redirect, render_template, request, url_for
 from pymongo import MongoClient
